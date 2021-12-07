@@ -1,0 +1,97 @@
+07-12-2021:
+===========
+	Good Morning to All...
+
+	https://github.com/AP-Skill-Development-Corporation/VEMU-B-Python
+	
+	Python Introduction:
+	====================
+
+	Python Installation:
+	--------------------
+	-> Site to download the python software
+		=> https://python.org
+		=> select operating system
+		=> After selection it will displays two columns
+			-> stable release
+			-> pre release
+		=> select "stable release" versions to work perfectly
+		=> select your version like python 3.xx etc.,
+	-> After downloading then double click on the software
+	-> Select "install now" and checkboxes to be checked
+	-> After completion of installation try to check the python version either it is installed or not?
+
+	Python Version Check:
+	---------------------
+	-> Open Command Prompt
+	-> Then type command to check the python is either installed or not?
+	-> Command to check
+		=> python -V
+
+	Installations Errors:
+	---------------------
+	-> Python is either internal or external command error
+	-> If the error is like that we need to analyse these steps
+		=> python is not installed
+		=> one or more python versions or installed
+		=> path is not configured correctly in environment variables
+
+	Configuration of path for python:
+	---------------------------------
+	-> To set a path first we need to check whether the python is installed in your system or not?
+	-> If it is installed then didnt accessing in cmd propmt then we need to set the path
+	-> First we need to know the path of python installation.
+		=> Open IDLE and import the os module as
+			-> import os
+		=> check the path with path (method,function etc.,)
+			-> os.path
+	-> It displays where the python is installed
+	-> Navigate to the path in explorer then copy the path and paste it to the environment path variable of user
+		-> "C:\Users\username\AppData\Local\Programs\Python\Pythonversion\"
+
+	Pip Version Check:
+	------------------
+	-> open command propmt and the need to check the pip version by below command
+		=> pip -V
+	-> If the pip is not showing as an internal or external command error then we need to configure the path as like python
+		-> "C:\Users\username\AppData\Local\Programs\Python\Pythonversion\Scripts\"
+	-> This path is to be added to the environment variable along with python
+	-> To check we need to pass the above command in command prompt
+
+	Jupyter Notebook:
+	-----------------
+	-> open command prompt and type the command as
+		=> pip install jupyter notebook
+	-> pip upgrade command
+		=> python -m pip install --upgrade pip
+	-> Then run the command to install jupyter notebook
+		=> pip install jupyter notebook
+
+	Execution of python program:
+	============================
+	- Basic Procedure
+	- Advanced Editors
+	- IDLE
+	- Jupyter Notebook
+
+	Basic Procedure:
+	================
+		-> Notepad 
+		-> command [Interpreter]
+	-> To run the python program we need to navgate to the file location where we are saving the file
+	-> open cmd prompt then run the file by filenames in cmd
+		=> example:
+			c:\>>sample.py
+			Hello
+	-> If it is error while executing the problem then we need to pass the python name infront of filename
+		=> example:
+			c:\>> python sample.py
+			Hello  
+
+	Advanced Procedure:
+	===================
+	-> Advanced Editors like Atom,sublime,editplus,geany
+	-> Interpreter
+
+
+

@@ -1,0 +1,47 @@
+Day-02[08-12-2021]:
+===================
+	Good Morning to All..
+
+	Python Versions:
+	----------------
+		-> python 2.x
+			We need to write our own functions and need to access for predefiend in python 3.x
+		-> python 3.x
+			No need to write for own functions for pre defined functions we can directly access it by their function names 
+
+	Advanced Procedure:
+	===================
+	-> Advanced Editors like Atom,sublime,editplus,geany,Notepad++
+	-> Interpreter
+
+	IDLE[Integrated Development Learning Environment]:
+	==================================================
+	->It is similar to advanced editors but it has some useage to access by default.
+
+	Jupyter Notebook:
+	=================
+	-> To Install jupyter notebook
+		=> pip install jupyter notebook
+	-> To run jupyter notebook
+		=> jupyter notebook 
+
+	ipynb:
+	i => Interactive
+	py => Python
+	nb => Notebook
+
+	Shortcuts:
+	==========
+	esc + m => Markdown
+	esc + y => code
+	cntrl + enter => execute
+	esc + dd => delete a cell
+	esc + a => insert cell above
+	esc + b => insert cell below
+
+
+	
+
+
+
+

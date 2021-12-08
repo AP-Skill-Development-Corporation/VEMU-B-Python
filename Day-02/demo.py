@@ -1,0 +1,2 @@
+f = "Raju"
+print(f)

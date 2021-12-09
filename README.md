@@ -11,3 +11,7 @@
   - Installation of jupyter notebook and brief explanation about it
   - Markdown Format with sample examples on it
   - Variables,input formatting and data types
+
+## Day-03(09-12-2021):
+  - Typecasting,Output Formatting with sample examples
+  - Conditional Statements with sample examples on it

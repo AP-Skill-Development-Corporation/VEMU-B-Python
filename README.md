@@ -15,3 +15,7 @@
 ## Day-03(09-12-2021):
   - Typecasting,Output Formatting with sample examples
   - Conditional Statements with sample examples on it
+
+## Day-04(10-12-2021):
+  - Control statements with sample examples
+  - Jumping statements and inner loop concept with sample exampels on it

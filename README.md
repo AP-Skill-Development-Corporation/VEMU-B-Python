@@ -18,4 +18,8 @@
 
 ## Day-04(10-12-2021):
   - Control statements with sample examples
-  - Jumping statements and inner loop concept with sample exampels on it
+  - Jumping statements and inner loop concept with sample examples on it
+
+## Day-05(11-12-2021):
+  - Data Structures introduction
+  - Brief explanation about list and tuples with their methods and sample examples on it
